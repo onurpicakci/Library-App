@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onurpicakci/Desktop/LibraryApplication/EntityLayer/EntityLayer.csproj",
+      "projectUniqueName": "/Users/onurpicakci/Desktop/Library-App/EntityLayer/EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "/Users/onurpicakci/Desktop/LibraryApplication/EntityLayer/EntityLayer.csproj",
+      "projectPath": "/Users/onurpicakci/Desktop/Library-App/EntityLayer/EntityLayer.csproj",
       "packagesPath": "/Users/onurpicakci/.nuget/packages/",
-      "outputPath": "/Users/onurpicakci/Desktop/LibraryApplication/EntityLayer/obj/",
+      "outputPath": "/Users/onurpicakci/Desktop/Library-App/EntityLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onurpicakci/.nuget/NuGet/NuGet.Config"

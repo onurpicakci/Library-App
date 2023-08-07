@@ -3546,11 +3546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onurpicakci/Desktop/LibraryApplication/BusinessLayer/BusinessLayer.csproj",
+      "projectUniqueName": "/Users/onurpicakci/Desktop/Library-App/BusinessLayer/BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "/Users/onurpicakci/Desktop/LibraryApplication/BusinessLayer/BusinessLayer.csproj",
+      "projectPath": "/Users/onurpicakci/Desktop/Library-App/BusinessLayer/BusinessLayer.csproj",
       "packagesPath": "/Users/onurpicakci/.nuget/packages/",
-      "outputPath": "/Users/onurpicakci/Desktop/LibraryApplication/BusinessLayer/obj/",
+      "outputPath": "/Users/onurpicakci/Desktop/Library-App/BusinessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onurpicakci/.nuget/NuGet/NuGet.Config"
@@ -3565,11 +3565,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/onurpicakci/Desktop/LibraryApplication/DataAccessLayer/DataAccessLayer.csproj": {
-              "projectPath": "/Users/onurpicakci/Desktop/LibraryApplication/DataAccessLayer/DataAccessLayer.csproj"
+            "/Users/onurpicakci/Desktop/Library-App/DataAccessLayer/DataAccessLayer.csproj": {
+              "projectPath": "/Users/onurpicakci/Desktop/Library-App/DataAccessLayer/DataAccessLayer.csproj"
             },
-            "/Users/onurpicakci/Desktop/LibraryApplication/EntityLayer/EntityLayer.csproj": {
-              "projectPath": "/Users/onurpicakci/Desktop/LibraryApplication/EntityLayer/EntityLayer.csproj"
+            "/Users/onurpicakci/Desktop/Library-App/EntityLayer/EntityLayer.csproj": {
+              "projectPath": "/Users/onurpicakci/Desktop/Library-App/EntityLayer/EntityLayer.csproj"
             }
           }
         }

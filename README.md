@@ -18,6 +18,18 @@ Son olarak ödünç alma yani **Borrow** sayfasına girdildiğinde üst tarafta 
 
 Uygulamanın ekran görüntüleri: 
 
+## Books Page
+
+![book-list](./readme-img/book-list.png)
+
+## New Book Page
+
+![new-book](./readme-img/new-book.png)
+
+## Borrow Page
+![borrow-page](./readme-img/borrow-page.png)
+
+
 
 
 

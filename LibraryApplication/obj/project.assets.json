@@ -3567,11 +3567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onurpicakci/Desktop/LibraryApplication/LibraryApplication/LibraryApplication.csproj",
+      "projectUniqueName": "/Users/onurpicakci/Desktop/Library-App/LibraryApplication/LibraryApplication.csproj",
       "projectName": "LibraryApplication",
-      "projectPath": "/Users/onurpicakci/Desktop/LibraryApplication/LibraryApplication/LibraryApplication.csproj",
+      "projectPath": "/Users/onurpicakci/Desktop/Library-App/LibraryApplication/LibraryApplication.csproj",
       "packagesPath": "/Users/onurpicakci/.nuget/packages/",
-      "outputPath": "/Users/onurpicakci/Desktop/LibraryApplication/LibraryApplication/obj/",
+      "outputPath": "/Users/onurpicakci/Desktop/Library-App/LibraryApplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onurpicakci/.nuget/NuGet/NuGet.Config"
@@ -3587,8 +3587,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/onurpicakci/Desktop/LibraryApplication/BusinessLayer/BusinessLayer.csproj": {
-              "projectPath": "/Users/onurpicakci/Desktop/LibraryApplication/BusinessLayer/BusinessLayer.csproj"
+            "/Users/onurpicakci/Desktop/Library-App/BusinessLayer/BusinessLayer.csproj": {
+              "projectPath": "/Users/onurpicakci/Desktop/Library-App/BusinessLayer/BusinessLayer.csproj"
             }
           }
         }

@@ -1,0 +1,13 @@
+@{
+    ViewBag.Title = "Books";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="col-lg-10 grid-margin stretch-card float-end">
+    <div class="card mt-4">
+        <div class="card-body">
+            @await Component.InvokeAsync("BookList")
+        </div>
+    </div>
+</div>

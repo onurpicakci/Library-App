@@ -1,0 +1,65 @@
+@using EntityLayer.Entity
+@model List<Book>
+
+<div class="table-responsive">
+    <a href="/Book/AddBook" class="btn btn-success float-end">New Book</a>
+    <h4 class="card-title">Books</h4>
+    <table class="table mt-3">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Author Name</th>
+            <th>Status</th>
+            <th>Borrower</th>
+            <th>Return Date</th>
+            <th>Borrow</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>
+                    <img src="~/img/@item.ImageURL" class="rounded position-relative" width="80px" height="80px"/>
+                </td>
+                <td>@item.Name</td>
+                <td>@item.AuthorName</td>
+                <td>@item.Status</td>
+                <td>
+                    @if (item.Status == false)
+                    {
+                        @item.Accepter
+                    }
+                    else
+                    {
+                        <p>NULL</p>
+                    }
+                </td>
+                <td>
+                    @if (item.Status == false)
+                    {
+                        @item.ReturnDate
+                    }
+                    else
+                    {
+                        <p>NULL</p>
+                    }
+                </td>
+                <td>
+                    @if (item.Status == true)
+                    {
+                        <a href="/Book/BorrowBook/@item.Id" class="btn btn-primary">Borrow</a>
+                    }
+                    else
+                    {
+                        <a href="/Book/BorrowBook/@item.Id" class="btn btn-outline-primary disabled">Borrow</a>
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

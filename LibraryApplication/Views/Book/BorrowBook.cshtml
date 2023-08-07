@@ -1,0 +1,31 @@
+@model EntityLayer.Entity.Book
+
+<div class="col-10 grid-margin stretch-card float-end">
+    <div class="card">
+        <div class="card-body">
+            <p>Please enter the following information in order to borrow the @Model.Name book.</p>
+        </div>
+    </div>
+</div>
+
+@using (Html.BeginForm("BorrowBook", "Book", FormMethod.Post))
+{
+    <div class="col-10 grid-margin stretch-card float-end">
+    <div class="card">
+        <div class="card-body">
+            <form class="forms-sample">
+                <div class="form-group">
+                    <label>Recipient Name</label>
+                    <input type="text" class="form-control" name="Accepter">
+                </div>
+                <div class="form-group">
+                    <label>Date</label>
+                    <input type="date" class="form-control" name="ReturnDate">
+                </div>
+                <button type="submit" class="btn btn-primary mt-3">Save</button>
+                <button class="btn btn-dark mt-3">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+}

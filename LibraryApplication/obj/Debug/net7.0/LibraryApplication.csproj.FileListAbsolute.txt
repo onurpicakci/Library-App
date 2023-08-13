@@ -243,3 +243,9 @@
 /Users/onurpicakci/Desktop/Library-App/LibraryApplication/obj/Debug/net7.0/LibraryApplication.pdb
 /Users/onurpicakci/Desktop/Library-App/LibraryApplication/obj/Debug/net7.0/LibraryApplication.genruntimeconfig.cache
 /Users/onurpicakci/Desktop/Library-App/LibraryApplication/obj/Debug/net7.0/ref/LibraryApplication.dll
+/Users/onurpicakci/Desktop/Library-App/LibraryApplication/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/onurpicakci/Desktop/Library-App/LibraryApplication/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/onurpicakci/Desktop/Library-App/LibraryApplication/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/onurpicakci/Desktop/Library-App/LibraryApplication/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/onurpicakci/Desktop/Library-App/LibraryApplication/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/onurpicakci/Desktop/Library-App/LibraryApplication/bin/Debug/net7.0/Microsoft.Extensions.Options.dll

@@ -2968,6 +2968,7 @@
       <_ContentIncludedByDefault Remove="wwwroot\argon-dashboard-master\LICENSE.md" />
       <_ContentIncludedByDefault Remove="wwwroot\argon-dashboard-master\package.json" />
       <_ContentIncludedByDefault Remove="wwwroot\argon-dashboard-master\README.md" />
+      <_ContentIncludedByDefault Remove="Views\Account\Login.cshtml" />
     </ItemGroup>
 
     <ItemGroup>

@@ -1,9 +1,11 @@
 using EntityLayer.Entity;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer.Concrete;
 
-public class Context : DbContext
+public class Context : IdentityDbContext<IdentityUser, IdentityRole, string>
 {
     // Context sınıfı DbContext sınıfından kalıtım alarak oluşturuldu.
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

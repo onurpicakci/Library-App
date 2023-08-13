@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/onurpicakci/Desktop/Library-App/LibraryApplication
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/onurpicakci/Desktop/Library-App/LibraryApplication/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/onurpicakci/Desktop/Library-App/LibraryApplication/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/onurpicakci/Desktop/Library-App/LibraryApplication/Views/Book/AddBook.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9BZGRCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
